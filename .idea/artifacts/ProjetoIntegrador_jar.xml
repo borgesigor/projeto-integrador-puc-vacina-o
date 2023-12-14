@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetoIntegrador:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoIntegrador_jar</output-path>
+    <root id="archive" name="ProjetoIntegrador.jar">
+      <element id="module-output" name="ProjetoIntegrador" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../postgresql-42.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
